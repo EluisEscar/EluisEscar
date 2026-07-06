@@ -146,11 +146,3 @@
   </a>
 </p>
 </div>
-
-<hr>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EluisEscar/EluisEscar/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
-
-<hr>
